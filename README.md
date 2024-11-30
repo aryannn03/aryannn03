@@ -9,7 +9,7 @@
 
 - 🌱 Currently I’m learning **JavaScript**
 
-- ❓ Solved 300+ Questions on **Leetcode**
+- ❓ Solved 350+ Questions on **Leetcode**
 
 - 📫 How to reach me **aryan2017malik@gmail.com**
 
