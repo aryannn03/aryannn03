@@ -7,7 +7,7 @@
 
 - 🔭 I’m an Aspiring **MERN-Stack Developer**
 
-- 🌱 Currently I’m learning **JavaScript**
+- 🌱 Skilled in **Data Structures and Algorithms**
 
 - ❓ Solved 350+ Questions on **Leetcode**
 
