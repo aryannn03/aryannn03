@@ -9,7 +9,7 @@
 
 - 🌱 Skilled in **Data Structures and Algorithms**
 
-- ❓ Solved 400+ Questions on **Leetcode**
+- ❓ Solved 500+ Questions on **Leetcode**
 
 - 📫 How to reach me **aryan2017malik@gmail.com**
 
