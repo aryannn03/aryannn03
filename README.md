@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryannn03" alt="aryannn03" /></a> </p>
 
-- 🔭 I’m an Aspiring **MERN-Stack Developer**
+- 🔭 I’m a Software Developer**
 
 - 🌱 Skilled in **Data Structures and Algorithms**
 
